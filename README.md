@@ -16,7 +16,7 @@
 - 🛠️ I build products from zero to launch: service architecture, APIs, infrastructure and the UI on top.
 - 🧩 Most of my work is **microservices on ASP.NET Core** — gateways, event-driven messaging, identity, payments and integrations with external services.
 - ⚛️ On the front end I work with **JavaScript and React**.
-- 🚀 Right now I'm building **[ChooseBite](https://choosebite.com)** and **[FitPeak](https://fitpeak.ir)**.
+- 🚀 Right now I'm building **[ChooseBite](https://choosebite.com)**, **[FitPeak](https://fitpeak.ir)** and **[DudRasan](https://dudrasan.ir)**.
 - 🌐 Persian &amp; English · [naderasadpour.ir](https://naderasadpour.ir) · [فارسی](https://naderasadpour.ir/fa/)
 
 ### Tech I use
@@ -34,6 +34,7 @@
 |---|---|
 | **[ChooseBite](https://choosebite.com)** | Find a dish nearby and book a table — apps for customers, restaurant owners and admins |
 | **[FitPeak](https://fitpeak.ir)** | Online workout &amp; nutrition coaching platform with athlete, coach and admin apps |
+| **[DudRasan](https://dudrasan.ir)** | Live price board &amp; B2B marketplace for tobacco distributors, with buyer, seller and admin apps |
 | **[Medipay24](https://medipay24.com)** | Medical fintech: pay for treatment later or in instalments, with medical loans |
 | **[ViraNex](https://viranex.ir)** | Selling, repairing and servicing POS terminals, with field missions for support staff |
 | **[Iriatel](https://iriatel.ir)** | Online store for SIM cards, top-ups and internet packages |
